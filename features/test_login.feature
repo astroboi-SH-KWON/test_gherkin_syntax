@@ -1,3 +1,5 @@
+# # behave -f plain --no-capture features/test_login.feature
+
 Feature: 사용자 로그인
 
    Scenario: 유효한 자격 증명으로 로그인
